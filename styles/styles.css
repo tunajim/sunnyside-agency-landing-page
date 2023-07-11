@@ -420,7 +420,7 @@ footer img {
 @media (min-width: 1000px) {
   /* header elements */
   .header-container {
-    background: url(/images/desktop/image-header.jpg);
+    background: url(../images/desktop/image-header.jpg);
     height: 69.25rem;
     background-size: cover;
     background-position: center;
@@ -524,11 +524,11 @@ footer img {
   }
 
   .orange {
-    background: url(/images/desktop/image-photography.jpg);
+    background: url(../images/desktop/image-photography.jpg);
   }
 
   .cherries {
-    background: url(/images/desktop/image-graphic-design.jpg);
+    background: url(../images/desktop/image-graphic-design.jpg);
   }
 
   .orange,
